@@ -1,9 +1,12 @@
 # Como configurar sua chave PIX
 
 ## Introdução do tutorial
-PIX é um sistema de pagamento instantâneo desenvolvido pelo Banco Central do Brasil(BACEN). Este breve tutorial irá guiá-lo na configuração da sua chave PIX.
+O Pix, desenvolvido pelo Banco Central do Brasil, é uma forma de fazer pagamentos ou transferências em qualquer hora do dia e da semana, de maneira instantânea, prática e segura.
+
+Além de fazer transações imediatas, com o Pix você também pode pagar contas com data de vencimento, agendar transações e até sacar dinheiro.
 
 ## Quais são os pré-requisitos
+- Ter uma conta bancária
 - Acesso ao internet banking ou aplicativo do seu banco
 - CPF/CNPJ
 - Número de telefone ou endereço de e-mail ou chave aleatória
@@ -25,6 +28,6 @@ PIX é um sistema de pagamento instantâneo desenvolvido pelo Banco Central do B
 1. Selecione o tipo de chave desejado.
 2. Siga as instruções para registrar a chave no sistema do seu banco.
 
-## Recursos Adicionais
+## Recursos Adicionais para consulta
 - [FAQ do Banco Central sobre o PIX](https://www.bcb.gov.br/meubc/faqs/c/pix-e-transferencia)
-- [Suporte do seu banco]. 
+- [Suporte do seu banco].
